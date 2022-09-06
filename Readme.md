@@ -8,6 +8,6 @@ Run `recongizer.py` to get the predictions and it does not actually tell whether
 __The number must be inside the red bounding box.__
 
 e.g.
-![eight](https://user-images.githubusercontent.com/57759185/188656173-eec520c7-2f8d-48a2-b05a-55a0cf25d3bd.gif)
+![eight](https://user-images.githubusercontent.com/57759185/188659514-e660cfeb-6a5f-4ab7-89db-1acf3092a6e5.gif)
 ![three](https://user-images.githubusercontent.com/57759185/188656625-86b10b2c-c3c7-4464-a022-f6a4e4403b12.gif)
 ![two](https://user-images.githubusercontent.com/57759185/188657214-68466be8-b67e-43cf-a02c-9902f358da53.gif)
